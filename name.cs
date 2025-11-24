@@ -1,1 +1,2 @@
-string name = "Tom"; 
+string name = "Tom";
+string postcode = "1234";
